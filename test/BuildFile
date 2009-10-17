@@ -2,6 +2,7 @@
 <use name=DataFormats/Common>
 <use name=DataFormats/GsfTrackReco>
 <use name=SimDataFormats/TrackingAnalysis>
+<use name=SimTracker/Records>
 <use name=FWCore/ParameterSet>
 <use name=TrackingTools/TransientTrack>
 <use name=CommonTools/Statistics>
